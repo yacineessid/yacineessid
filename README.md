@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">My name is Yacine  and I'm a Frontend developer</p>
+<h3 align="left">My name is Yacine  and I'm a Frontend developer</h3>
 
 ###
 
-<h2 align="left">My curiosity and thirst for knowledge drive me to constantly seek out new challenges and opportunities to grow. I thrive in environments that encourage innovation and experimentation, where I can push the boundaries of what's possible and learn from every experience. Whether it's mastering a new programming language, exploring emerging technologies, or tackling complex problems, I'm always eager to expand my skill set and embrace the next big challenge.</h2>
+<p align="left">My curiosity and thirst for knowledge drive me to constantly seek out new challenges and opportunities to grow. I thrive in environments that encourage innovation and experimentation, where I can push the boundaries of what's possible and learn from every experience. Whether it's mastering a new programming language, exploring emerging technologies, or tackling complex problems, I'm always eager to expand my skill set and embrace the next big challenge.</p>
 
 ###
 
